@@ -1,3 +1,4 @@
+Leslie Zuniga Robles-SDS510 Project One
 Script started on 2026-10-22 14:05:07-07:00 [TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="76" LINES="19"]
 [?2004h]0;eilselstar@LAPTOP-JIRI01HR: ~[01;32meilselstar@LAPTOP-JIRI01HR[00m:[01;34m~[00m$ curl  -s -L [7mhttps://www.dropbox.com/s/14jagxjb[27m[7mz[27m[7mhyxg8g/log.tar.gz. [27m[A]0;eilselstar@LAPTOP-JIRI01HR: ~[01;32meilselstar@LAPTOP-JIRI01HR[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[Chttps://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz.  [K- [Ko log.tar.gz
 [?2004l[?2004h]0;eilselstar@LAPTOP-JIRI01HR: ~[01;32meilselstar@LAPTOP-JIRI01HR[00m:[01;34m~[00m$ tar -xvzf log.tar.gz
