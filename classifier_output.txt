@@ -1,0 +1,17 @@
+Jeopardy Question Value Classifier
+----------------------------------
+Total questions used: 213057
+Training questions: 170445
+Testing questions: 42612
+Accuracy: 63.15%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  High-value       0.36      0.37      0.36     12248
+   Low-value       0.74      0.74      0.74     30364
+
+    accuracy                           0.63     42612
+   macro avg       0.55      0.55      0.55     42612
+weighted avg       0.63      0.63      0.63     42612
+
