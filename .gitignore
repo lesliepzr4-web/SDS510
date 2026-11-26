@@ -1,4 +1,36 @@
+# Jeopardy assignment
 jeopardy.json
+
+# Python environments
 venv/
+.venv/
+env/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[codz]
+*$py.class
+
+# Distribution
+.Python
+build/
+dist/
+*.egg-info/
+
+# Testing and coverage
+.coverage
+.pytest_cache/
+.tox/
+.nox/
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.envrc
+
+# IDE
+.vscode/
+.idea/
